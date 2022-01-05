@@ -1,5 +1,5 @@
 ---
-avatar_filename: img_20210104_101713.jpg
+avatar_filename: avatar.jpg
 bio: ""
 social:
   - icon: envelope
