@@ -18,6 +18,4 @@ status:
 title: Ankur Parasor
 role: Software Engineer & Photographer
 ---
-# Hello
-
 Ankur Parasor is a software engineer working in the IT industry. He is also a passionate hobbyist photographer.
