@@ -17,5 +17,6 @@ status:
   icon: ☕️
 title: Ankur Parasor
 role: Software Engineer & Photographer
+email: ankurparasor123@gmail.com
 ---
 Ankur Parasor is a software engineer working in the IT industry. He is also a passionate hobbyist photographer.
