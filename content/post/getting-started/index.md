@@ -17,7 +17,7 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-  filename: out_edit.jpg
+  filename: featured.jpg
 ---
 ![](out_edit.jpg)
 
