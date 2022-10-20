@@ -16,7 +16,7 @@ image:
   caption: "Image credit: Ankur Parasor"
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
   filename: out_edit.jpg
 ---
 ![](out_edit.jpg)
