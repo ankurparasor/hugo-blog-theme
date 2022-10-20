@@ -19,7 +19,9 @@ image:
   preview_only: false
   filename: out_edit.jpg
 ---
-![jpg]content/post/getting-started/out_edit.jpg
+![](out_edit.jpg)
+
 ## Image description
-- Camera Nikon D5100
-- ISO: 6400
+
+* Camera Nikon D5100
+* ISO: 6400
